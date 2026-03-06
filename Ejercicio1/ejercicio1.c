@@ -14,7 +14,7 @@ void calcularInteresAnual(float cantidad, float porcentajeInteres) {
 }
 
 int main() {
-    printf("Precio con IVA de 100: %.2f\n", calcularTotalConIVA(100));
+    printf("Precio con IVA: %.2f\n", calcularTotalConIVA(100));
     mostrarNIF(12345678);
     calcularInteresAnual(1000, 5);
     return 0;
