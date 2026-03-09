@@ -16,7 +16,7 @@ int main() {
     printf("Introduce el capital inicial: ");
     scanf("%lf", &capital);
 
-    printf("Introduce el numero de anos: ");
+    printf("Introduce el numero de años: ");
     scanf("%d", &anys);
 
     printf("Introduce el interes anual (%%): ");
